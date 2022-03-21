@@ -10,4 +10,4 @@ linux下没做测试，可能不能用。
 
 文件主体：logincampus.py。
 
-已用pyinstaller打包，可以参照release文件夹下面文本文档的说明配置。
+已用pyinstaller打包，如果没有安装python，可以下载release文件夹，并参照release文件夹下面文本文档的说明配置软件。
